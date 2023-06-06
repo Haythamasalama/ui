@@ -15,7 +15,7 @@
     "dist"
   ],
   "engines": {
-    "node": ">=16.14.0"
+    "node": ">=v16.20.0"
   },
   "scripts": {
     "build": "nuxt-module-build",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@egoist/tailwindcss-icons": "^1.1.0",
-    "@headlessui/vue": "1.7.10",
+    "@headlessui/vue": "1.7.14",
     "@iconify-json/heroicons": "^1.1.10",
     "@nuxt/kit": "^3.5.3",
     "@nuxtjs/color-mode": "^3.2.0",
@@ -63,6 +63,6 @@
     "nuxt-lodash": "^2.4.1",
     "standard-version": "^9.5.0",
     "unbuild": "^1.2.1",
-    "vue-tsc": "1.6.3"
+    "vue-tsc": "1.6.5"
   }
 }
